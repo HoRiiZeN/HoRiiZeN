@@ -11,7 +11,7 @@ If you want to see the messy learning process, check my repos:
 - Labs and experiments
 - Learning notes
 - Small scripts
-> Everything I learn is logged in my DevOps journal and Bandit notes (I've only started logging recently).
+> Everything I learn is logged in my DevOps journal (I've only started logging recently).
 
 ## ⚡ When I'm not learning
 I read manga, watch anime, or play games.
